@@ -1,0 +1,95 @@
+@font-face {
+    font-family: 'PixelFont';
+    src: url('../public/font/04B_30__.TTF') format('truetype');
+}
+
+:root {
+   /* Pastel pink color palette */
+   --pastel-pink-1: #F2BED1;
+   --pastel-pink-2: #F8C9D8;
+   --pastel-pink-3: #FED3DF;
+   --pastel-pink-4: #FFDDE6;
+   --pastel-pink-5: #FFE7ED;
+
+   /* Pastel green color palette */
+   --pastel-green-1: #B3E5B3;
+   --pastel-green-2: #BFEABF;
+   --pastel-green-3: #CAEFCA;
+   --pastel-green-4: #D6F4D6;
+   --pastel-green-5: #E2F9E2;
+
+   /* Pastel blue color palette */
+   --pastel-blue-1: #8FCEDF;
+   --pastel-blue-2: #9BD3E9;
+   --pastel-blue-3: #A7D8F3;
+   --pastel-blue-4: #B3DDFD;
+   --pastel-blue-5: #BFE2FF;
+
+   /* Pastel yellow color palette */
+   --pastel-yellow-1: #FFE6A3;
+   --pastel-yellow-2: #FFEBAD;
+   --pastel-yellow-3: #FFF0B8;
+   --pastel-yellow-4: #FFF5C2;
+   --pastel-yellow-5: #FFFACC;
+
+   /* Pastel orange color palette */
+   --pastel-orange-1: #FFCFA6;
+   --pastel-orange-2: #FFD4B0;
+   --pastel-orange-3: #FFD9BA;
+   --pastel-orange-4: #FFDFC5;
+   --pastel-orange-5: #FFE4CF;
+
+   /* Pastel red color palette */
+   --pastel-red-1: #FFA6A6;
+   --pastel-red-2: #FFADB0;
+   --pastel-red-3: #FFB5B8;
+   --pastel-red-4: #FFBCC1;
+   --pastel-red-5: #FFC3C8;
+
+    /* Lilac color palette */
+    --pastel-lilac-1: #B088FF;
+    --pastel-lilac-2: #D2B3FF;
+    --pastel-lilac-3: #E6CEFF;
+    --pastel-lilac-4: #F0DFFF;
+    --pastel-lilac-5: #F9E9FF;
+
+    /* Peach color palette */
+    --pastel-peach-1: #FFB366;
+    --pastel-peach-2: #FFC799;
+    --pastel-peach-3: #FFD9B3;
+    --pastel-peach-4: #FFE6CC;
+    --pastel-peach-5: #FFF2E6;
+
+    /* Mint color palette */
+    --pastel-mint-1: #75E676;
+    --pastel-mint-2: #94F294;
+    --pastel-mint-3: #B4FFB4;
+    --pastel-mint-4: #D1FFD1;
+    --pastel-mint-5: #E7FFE7;
+
+    /* Gray color palette */
+    --pastel-gray-1: #CED4DA;
+    --pastel-gray-2: #DEE1E6;
+    --pastel-gray-3: #ECEFF4;
+    --pastel-gray-4: #F2F4F8;
+    --pastel-gray-5: #F9FAFC;
+
+    --font-primary: 'Arial', sans-serif;
+    --font-secondary: 'Helvetica', sans-serif;
+    --font-pixel: 'PixelFont', sans-serif;
+
+    --font-size-small: 14px;
+    --font-size-medium: 16px;
+    --font-size-large: 18px;
+    --font-title: 5em;
+
+    --text-color-dark: #333;
+    --text-color-light: #fff;
+
+    --color-light: #f5f5f5;
+    --color-dark: #222;
+}
+
+body {
+    font-family: var(--font-primary);
+}
