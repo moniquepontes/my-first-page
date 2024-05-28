@@ -21,6 +21,6 @@ To explore the project locally and view the source code:
 2. Navigate to the project directory.
 3. Install dependencies using `npm install`.
 4. Start the development server with `npm start`.
-5. Open your browser and visit [http://localhost:3000](http://localhost:9000) to view the project.
+5. Open your browser and visit [http://localhost:9000](http://localhost:9000) to view the project.
 
 Feel free to explore the codebase, experiment with the components, and customize the project according to your preferences!
